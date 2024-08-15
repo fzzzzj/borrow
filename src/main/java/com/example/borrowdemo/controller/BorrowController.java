@@ -13,7 +13,7 @@ public class BorrowController {
     @Resource
     private BorrowServiceImpl borrowServiceImpl;
 
-    /*
+    /**
     // User
     List<User> getUserList();
     User getUserById(String id);
